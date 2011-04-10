@@ -1,0 +1,30 @@
+First created in VB6 for use by the users of the (sadly now dead) DSMeet.com. DSigner was designed to provide a way to generate and edit decals to be used on Mario Kart DS.
+
+It was recoded in Java and re-released for the (very much still alive) Friendcodes.com. Now supporting quite a few different games and a marginally prettier backend DSigner became extremely popular on the official Nintendo NSider forums with hundreds of regular users. When DSigner's popularity began to fade it was open sourced under the GPL.
+
+This was written years ago and the code is not particularly pretty - I was young and stupid!
+
+
+Original README:
+
+DSigner was originally programmed by Jonathan Scott for Friendcodes.com, you are welcome to use, modify and redistribute this application under the terms of the GNU General Public License (attached).
+
+While I would recommend you read the attached document, essentially it means you can do what you like with this software (including charge for it) as long as upon re-distribution:
+	You offer the source code for download
+	You leave the original copyright notices intact
+	You include README and LICENSE
+
+While it is not required, it would be helpful if you would submit any improvements to me ([EMAIL REMOVED]) so I can include them in the official download for all to use.
+
+This software is proved AS IS and I take no responsibility for damages caused either by the software or by modifications made by other users to this software. I do NOT provide Java help, if you do not know Java I recommend the tutorials at Sun.com as a good place to start.
+
+Credits
+
+Jonathan Scott - Original Code, Export Templates
+Jack Saghbazarian - Need4Speed Underground 2 Palette
+
+
+ChangeLog
+
+18/02/2007
+	DSigner Lite source released by Jonathan Scott
